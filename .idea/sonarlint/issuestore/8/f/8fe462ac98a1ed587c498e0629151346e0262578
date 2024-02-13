@@ -1,0 +1,7 @@
+
+u
+java:S1488"_Immediately return this expression instead of assigning it to the temporary variable "product".(ÃØÃû
+h
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ìöön
+]
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(ìöön

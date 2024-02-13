@@ -13,7 +13,7 @@ public class Main {
         List<Product> productList = List.of(new Product("Computadora", 650000),
                                             new Product("Mouse", 120000),
                                             new Product("Teclado", 80000),
-                                            new Product("Pantalla", 1350000),
+                                            new Product("Monitores", 1350000),
                                             new Product("Auriculares", 40000));
         priceList.setProductList(productList);
 
